@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 from utils import CarDynamics, LPVController, plot_comparison
 
 
-
-
-
 def mpc_loop(car: CarDynamics, ctrl: LPVController, 
              x0, u0, Ts, N_sim, reference_trajectory):
     """

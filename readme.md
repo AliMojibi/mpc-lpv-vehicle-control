@@ -9,18 +9,6 @@ The code simulates:
 - MPC optimization over a prediction horizon  
 - Tracking of reference trajectories  
 - Comparison of actual vs. desired motion  
-
-The formulation is based on this course however the implementation is different: # LPV-MPC Vehicle Control Project
-
-This project implements a **Linear Parameter-Varying (LPV) Model Predictive Controller (MPC)** for a nonlinear vehicle model.  
-The goal is to track reference trajectories such as **straight‑line motion** and **circular paths** while respecting the vehicle dynamics.
-
-The code simulates:
-- Vehicle state evolution using a dynamic model  
-- LPV linearization at each time step  
-- MPC optimization over a prediction horizon  
-- Tracking of reference trajectories  
-- Comparison of actual vs. desired motion  
 ---
 
 ## 🎯 Goal

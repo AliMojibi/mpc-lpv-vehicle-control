@@ -21,8 +21,6 @@ The code simulates:
 - MPC optimization over a prediction horizon  
 - Tracking of reference trajectories  
 - Comparison of actual vs. desired motion  
-
-The formulation is based on 
 ---
 
 ## 🎯 Goal
